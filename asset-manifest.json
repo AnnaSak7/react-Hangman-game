@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-Hangman-game/static/css/main.da8b98bf.chunk.css",
+    "main.js": "/react-Hangman-game/static/js/main.66b09e10.chunk.js",
+    "main.js.map": "/react-Hangman-game/static/js/main.66b09e10.chunk.js.map",
+    "runtime-main.js": "/react-Hangman-game/static/js/runtime-main.5177a7d9.js",
+    "runtime-main.js.map": "/react-Hangman-game/static/js/runtime-main.5177a7d9.js.map",
+    "static/js/2.0497cea5.chunk.js": "/react-Hangman-game/static/js/2.0497cea5.chunk.js",
+    "static/js/2.0497cea5.chunk.js.map": "/react-Hangman-game/static/js/2.0497cea5.chunk.js.map",
+    "static/js/3.021a858f.chunk.js": "/react-Hangman-game/static/js/3.021a858f.chunk.js",
+    "static/js/3.021a858f.chunk.js.map": "/react-Hangman-game/static/js/3.021a858f.chunk.js.map",
+    "index.html": "/react-Hangman-game/index.html",
+    "static/css/main.da8b98bf.chunk.css.map": "/react-Hangman-game/static/css/main.da8b98bf.chunk.css.map",
+    "static/js/2.0497cea5.chunk.js.LICENSE.txt": "/react-Hangman-game/static/js/2.0497cea5.chunk.js.LICENSE.txt",
+    "static/media/HG0.3568f541.png": "/react-Hangman-game/static/media/HG0.3568f541.png",
+    "static/media/HG1.6a3c179f.png": "/react-Hangman-game/static/media/HG1.6a3c179f.png",
+    "static/media/HG2.23056b8c.png": "/react-Hangman-game/static/media/HG2.23056b8c.png",
+    "static/media/HG3.4bf101ce.png": "/react-Hangman-game/static/media/HG3.4bf101ce.png",
+    "static/media/HG4.52d23725.png": "/react-Hangman-game/static/media/HG4.52d23725.png",
+    "static/media/HG5.d8b577ba.png": "/react-Hangman-game/static/media/HG5.d8b577ba.png",
+    "static/media/HG6.6496794d.png": "/react-Hangman-game/static/media/HG6.6496794d.png",
+    "static/media/HangmanGame.e86154a5.png": "/react-Hangman-game/static/media/HangmanGame.e86154a5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5177a7d9.js",
+    "static/js/2.0497cea5.chunk.js",
+    "static/css/main.da8b98bf.chunk.css",
+    "static/js/main.66b09e10.chunk.js"
+  ]
+}
